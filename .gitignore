@@ -1,0 +1,6 @@
+dataset.csv
+filled_dataset.csv
+submission.csv
+_pycache_/
+.ipynb_checkpoints/
+*.pyc
