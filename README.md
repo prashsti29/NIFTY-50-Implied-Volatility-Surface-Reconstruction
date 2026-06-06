@@ -26,3 +26,4 @@ This repository discards black-box complexity in favor of **Raw Market Microstru
 Ensure you have Python 3.8+ installed. Install the minimal dependencies:
 ```bash
 pip install -r requirements.txt
+m
