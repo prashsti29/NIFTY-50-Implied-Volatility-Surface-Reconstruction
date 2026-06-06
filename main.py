@@ -104,4 +104,3 @@ solution = pd.DataFrame(rows, columns=["id", "value"]).sort_values("id").reset_i
 solution.to_csv(SUBMISSION_PATH, index=False)
 
 print(f" Submission file generated successfully → {SUBMISSION_PATH} ({len(solution)} rows)")
-//end of main.py
